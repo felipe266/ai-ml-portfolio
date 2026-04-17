@@ -4,24 +4,24 @@ Este repositório contem implementações do zero de algortmos fundamentais de I
 
 ## 📚 Conteúdo
 
-###🔹Algoritmos de Busca
+### 🔹Algoritmos de Busca
 - BFS, DFS, A*
 
-###🔹CSP
+### 🔹CSP
 - Sudoku Solver
 - N-Queens
 
-###🔹Probabilidade
+### 🔹Probabilidade
 - Teorema de Bayes
 - Naive Bayes
 - Incerteza
 
-###🔹Machine Learning
+### 🔹Machine Learning
 - Regressão Linear e Logística
 - K-NN
 - Árvores de decisão
 
-###🔹Deep Learning
+### 🔹Deep Learning
 - Rede Neural do zero
 - CNN básica
 
